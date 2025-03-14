@@ -1,4 +1,4 @@
-baseURL = 'https://busralog.github.io/'
+baseURL = 'busralog.github.io/'
 languageCode = 'en-us'
 title = 'Busralog'
 theme = "paper"
